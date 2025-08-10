@@ -5,4 +5,4 @@ alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
 alias sshpi='ssh joshua@raspberrypi.local'
 
 # My custom prompt
-PROMPT='%F{green}joshua%f %F{magenta}>%f %F{magenta}%1~%f '
+PROMPT='%F{green}joshua%f %F{green}>%f %F{green}%1~%f '
